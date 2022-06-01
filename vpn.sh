@@ -71,10 +71,10 @@ persist-tun
 auth-user-pass
 comp-lzo
 verb 3
-END
 redirect-gateway def1
 setenv CLIENT_CERT 0
 reneg-sec 0
+END
 
 sed -i $MYIP2 /etc/openvpn/client-tcp-1194.ovpn;
 
