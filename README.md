@@ -8,3 +8,11 @@ apt update && apt upgrade -y && apt install -y wget screen && wget -q https://ra
 # Want to be my reseller? 
 
 _**Contact**_ [Telegram](https://t.me/coxoox)
+
+# TELEGRAM BOT
+![hehe](https://github.com/apih46/ok/blob/main/hehe/IMG_20220601_165631.jpg) 
+
+# VPS MANAGER
+![huhu](https://github.com/apih46/ok/blob/main/hehe/Screenshot_2022-06-01-16-56-51-388_com.server.auditor.ssh.client.jpg) 
+
+
