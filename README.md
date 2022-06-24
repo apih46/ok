@@ -8,7 +8,7 @@ apt update && apt upgrade -y && apt install -y wget screen && wget -q https://ra
 
 **BBR**
 ```
-wget -q -O /usr/bin/bbr https://raw.githubusercontent.com/apih46/main/bbr.sh && chmod +x /usr/bin/bbr
+wget --no-check-certificate -O /usr/bin/bbr.sh https://raw.githubusercontent.com/apih46/main/bbr.sh && chmod +x /usr/bin/bbr
 ```
 # Want to be my reseller? 
 
