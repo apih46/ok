@@ -6,11 +6,10 @@
 apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/apih46/ok/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
 ```
 
-**BBR**
+**R**
 ```
-wget --no-check-certificate -O /opt/bbr.sh https://github.com/teddysun/across/raw/master/bbr.sh
-chmod 755 /opt/bbr.sh
-/opt/bbr.sh
+wget -q -O /usr/bin/tcp https://raw.githubusercontent.com/apih46/ok/main/tcp.sh && chmod +x /usr/bin/tcp
+
 ```
 # Want to be my reseller? 
 
