@@ -6,11 +6,6 @@
 apt update && apt upgrade -y && apt install -y wget screen && wget -q https://raw.githubusercontent.com/apih46/ok/main/setup.sh && chmod +x setup.sh && screen -S setup ./setup.sh
 ```
 
-**R**
-```
-wget -q -O /usr/bin/tcp https://raw.githubusercontent.com/apih46/ok/main/tcp.sh && chmod +x /usr/bin/tcp
-
-```
 # Want to be my reseller? 
 
 _**Contact**_ [Telegram](https://t.me/coxoox)
